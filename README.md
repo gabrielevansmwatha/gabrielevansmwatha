@@ -1,7 +1,12 @@
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hi++%F0%9F%91%8B+I'm++Gabriel+Evans+Mwatha)](https://git.io/typing-svg)
+
+<p align="left"> <img
+    src="https://komarev.com/ghpvc/?username=gabrielevansmwatha&label=Profile%20views&color=0e75b6&style=flat"
+    alt="gabrielevansmwatha" /> </p>
 - 👋 Hi, I’m @gabrielevansmwatha
-- 👀 I’m interested in Backend development 
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on Web App development Using Django 
+- 👀 I’m Full stack Developer
+- 🌱 I’m currently learning Web App Development using Django
 - 📫 Reach me on All social media @gabrielevansmwatha 
 
 <!---
